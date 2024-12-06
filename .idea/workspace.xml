@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c13810b-ff41-4190-ac77-dddd0109a153" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PuntoSeis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PuntoSiete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +38,8 @@
     "Application.PuntoCinco.executor": "Run",
     "Application.PuntoCuatro.executor": "Run",
     "Application.PuntoDos.executor": "Run",
+    "Application.PuntoSeis.executor": "Run",
+    "Application.PuntoSiete.executor": "Run",
     "Application.PuntoTres.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
